@@ -13,7 +13,7 @@
     }
   ],
   "require": {
-    "php": "^7.1.10"
+    "php": ">=7.1.10 <8.4"
   },
   "keywords": [
     "filesystem",
